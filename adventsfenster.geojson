@@ -1,0 +1,354 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "",
+        "marker-color": "#ff0000",
+        "marker-symbol": 1,
+        "name": 1,
+        "addr:street": "Hardeggerstrasse",
+        "level": ", im 2. Stock",
+        "addr:housenumber": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.420579344034195,
+          46.93471418176371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "",
+        "marker-color": "#ff0000",
+        "marker-symbol": 3,
+        "name": 3,
+        "addr:street": "Wilkerstrasse",
+        "level": "",
+        "addr:housenumber": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.417780458927154,
+          46.935867096186236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 5,
+        "name": 5,
+        "marker-size": "",
+        "addr:street": "Wilkerstrasse",
+        "addr:housenumber": 68,
+        "level": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.417486757040024,
+          46.93573889406166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 6,
+        "name": 6,
+        "marker-size": "",
+        "addr:street": "Wilkerstrasse",
+        "level": ", im Ärdgschoss",
+        "addr:housenumber": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.419446110725403,
+          46.93487352169268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 7,
+        "name": 7,
+        "marker-size": "",
+        "addr:street": "Hardeggerstrasse",
+        "addr:housenumber": 37,
+        "level": ", im 2. Stock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4207603931427,
+          46.934835976119935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 8,
+        "name": 8,
+        "marker-size": "",
+        "addr:street": "Wilkerstrasse",
+        "addr:housenumber": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.417598068714142,
+          46.93617111714042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 10,
+        "name": 10,
+        "addr:street": "Wilkerstrasse",
+        "addr:housenumber": 52,
+        "level": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.419263720512389,
+          46.93494952850329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 12,
+        "name": 12,
+        "addr:street": "Wilkerstrasse",
+        "level": ", im 1. Stock",
+        "addr:housenumber": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4180781841278085,
+          46.935451353894656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "",
+        "marker-color": "#ff0000",
+        "marker-symbol": 13,
+        "name": 13,
+        "addr:street": "Wilkerstrasse",
+        "level": ", im 1. Stock",
+        "addr:housenumber": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.419145703315736,
+          46.93497883230505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 15,
+        "name": 15,
+        "marker-size": "",
+        "addr:street": "Wilkerstrasse",
+        "level": ", im Ärdgschoss",
+        "addr:housenumber": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.417890429496765,
+          46.93550629799492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 18,
+        "name": 18,
+        "addr:street": "Wilkerstrasse",
+        "level": ", im Ärdgschoss",
+        "addr:housenumber": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.418001741170882,
+          46.93547241580642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 19,
+        "name": 19,
+        "addr:street": "Wilkerstrasse",
+        "level": ", im 2. Stock",
+        "addr:housenumber": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.419518530368805,
+          46.93482681865918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": 20,
+        "marker-color": "#ff0000",
+        "name": 20,
+        "addr:street": "Wilkerstrasse",
+        "level": ", im EG",
+        "addr:housenumber": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.419633865356444,
+          46.93479568328089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": 21,
+        "marker-color": "#ff0000",
+        "name": 21,
+        "addr:street": "Wilkerstrasse",
+        "level": ", im 2. Stock",
+        "addr:housenumber": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.418169379234314,
+          46.935492561975124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": 24,
+        "marker-color": "#ff0000",
+        "name": 24,
+        "addr:street": "Wilkerstrasse",
+        "level": ", im 2. Stock",
+        "addr:housenumber": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.419741153717041,
+          46.93478103133188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 23,
+        "name": 23,
+        "addr:street": "Wilkerstrasse",
+        "level": ", im Ärdgschoss",
+        "addr:housenumber": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.419059872627257,
+          46.93502645094872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 14,
+        "name": 14,
+        "addr:street": "Wilkerstrasse",
+        "level": "",
+        "addr:housenumber": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4173781275749215,
+          46.93601727542752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 16,
+        "name": 16,
+        "addr:street": "Wilkerstrasse",
+        "level": ", im Ärdgschoss",
+        "addr:housenumber": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4178247153759,
+          46.935920208405065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-symbol": 17,
+        "name": 17,
+        "addr:street": "Wilkerstrasse",
+        "level": "",
+        "addr:housenumber": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.417544424533844,
+          46.935649152391825
+        ]
+      }
+    }
+  ]
+}
