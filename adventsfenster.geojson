@@ -157,14 +157,14 @@
         "marker-symbol": 9,
         "name": 9,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
+        "addr:housenumber": 52,
         "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.419219464063644,
-          46.9369760317538
+          7.419432699680329,
+          46.934748064431986
         ]
       }
     },
@@ -301,14 +301,15 @@
         "marker-symbol": 17,
         "name": 17,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
-        "marker-size": "large"
+        "addr:housenumber": 52,
+        "marker-size": "large",
+        "level": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.4190665781497955,
-          46.93707034973908
+          7.4197572469711295,
+          46.93472059199992
         ]
       }
     },
