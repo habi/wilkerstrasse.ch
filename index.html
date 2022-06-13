@@ -6,21 +6,19 @@ Oldschool handcraftetd HTML by email@davidhaberthuer.ch
     <head>
         <title>Strassenfest Wilkerstrasse</title>
         <style>
-           body {
-               margin: 0;            /* Reset default margin */
-               width:400px;          /* set smallish width */
-                }
-            iframe {
-                display: block;       /* iframes are inline by default */
-                background: #FF0000;  /* red */
-                border: 0;            /* Reset default border */
-                height: 100vh;        /* Viewport-relative units */
-                width: 100vw;
-            }
-        </style>
+            .center {
+	            display: flex;
+	            justify-content: center;
+	            align-items: center;
+	            height: 600px;
+	        }
+	    </style>
     </head>
     <body>
-        Ds Wilkerstrassefescht 2022 findet am 27. Ouguscht vo öppe am vieri bis spät am Abe statt.
-        </iframe>
+	    <div class="center">
+        Ds Wilkerstrassefescht 2022 findet am 27. Ouguscht vo &ouml;ppe am vieri bis sp&auml;t am Abe statt.</br>
+        Details ch&ouml;me hie wemer me w&uuml;sse...</br>
+        </div>
     </body>
 </html>
+
