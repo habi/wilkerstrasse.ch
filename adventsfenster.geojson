@@ -7,8 +7,7 @@
         "marker-symbol": 1,
         "name": 1,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 68,
-        "marker-size": "large"
+        "addr:housenumber": 68
       },
       "geometry": {
         "coordinates": [
@@ -24,8 +23,7 @@
         "marker-symbol": 2,
         "name": 2,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
-        "marker-size": "large"
+        "addr:housenumber": ""
       },
       "geometry": {
         "coordinates": [
@@ -41,8 +39,7 @@
         "marker-symbol": 3,
         "name": 3,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
-        "marker-size": "large"
+        "addr:housenumber": ""
       },
       "geometry": {
         "coordinates": [
@@ -58,8 +55,7 @@
         "marker-symbol": 4,
         "name": 4,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
-        "marker-size": "large"
+        "addr:housenumber": ""
       },
       "geometry": {
         "coordinates": [
@@ -75,8 +71,7 @@
         "marker-symbol": 5,
         "name": 5,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
-        "marker-size": "large"
+        "addr:housenumber": ""
       },
       "geometry": {
         "coordinates": [
@@ -92,8 +87,7 @@
         "marker-symbol": 6,
         "name": 6,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
-        "marker-size": "large"
+        "addr:housenumber": ""
       },
       "geometry": {
         "coordinates": [
@@ -109,8 +103,7 @@
         "marker-symbol": 7,
         "name": 7,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 78,
-        "marker-size": "large"
+        "addr:housenumber": 78
       },
       "geometry": {
         "coordinates": [
@@ -127,8 +120,7 @@
         "name": 8,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 64,
-        "level": ", im Ärdgschoss",
-        "marker-size": "large"
+        "level": ", im Ärdgschoss"
       },
       "geometry": {
         "coordinates": [
@@ -145,7 +137,6 @@
         "name": 9,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 52,
-        "marker-size": "large",
         "apero": ", mitemene Apero zwüsche Huus 52 und 56 vo 19:00 a"
       },
       "geometry": {
@@ -163,7 +154,6 @@
         "name": 10,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": "",
-        "marker-size": "large",
         "apero": ""
       },
       "geometry": {
@@ -181,7 +171,6 @@
         "name": 11,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 68,
-        "marker-size": "large",
         "level": ", im Ärdgschoss"
       },
       "geometry": {
@@ -199,7 +188,6 @@
         "name": 12,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 50,
-        "marker-size": "large",
         "apero": ", mit emene Apero vo 17:00-19:00 bir Rutschbahn"
       },
       "geometry": {
@@ -216,8 +204,7 @@
         "marker-symbol": 13,
         "name": 13,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 56,
-        "marker-size": "large"
+        "addr:housenumber": 56
       },
       "geometry": {
         "coordinates": [
@@ -233,8 +220,7 @@
         "marker-symbol": 14,
         "name": 14,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 60,
-        "marker-size": "large"
+        "addr:housenumber": 60
       },
       "geometry": {
         "coordinates": [
@@ -251,7 +237,6 @@
         "name": 15,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 56,
-        "marker-size": "large",
         "level": ", im 2. Stock",
         "apero": ""
       },
@@ -269,8 +254,7 @@
         "marker-symbol": 16,
         "name": 16,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
-        "marker-size": "large"
+        "addr:housenumber": ""
       },
       "geometry": {
         "coordinates": [
@@ -287,7 +271,6 @@
         "name": 17,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 70,
-        "marker-size": "large",
         "apero": ", mit emene Apero vorem Huus vo 17:00 bis 19:00"
       },
       "geometry": {
@@ -305,8 +288,7 @@
         "name": 18,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": "",
-        "level": ", im 2. Stock",
-        "marker-size": "large"
+        "level": ", im 2. Stock"
       },
       "geometry": {
         "coordinates": [
@@ -322,8 +304,7 @@
         "marker-symbol": 19,
         "name": 19,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 52,
-        "marker-size": "large"
+        "addr:housenumber": 52
       },
       "geometry": {
         "coordinates": [
@@ -339,7 +320,6 @@
         "marker-symbol": 20,
         "name": 20,
         "addr:street": "Wilkerstrasse",
-        "marker-size": "large",
         "addr:housenumber": 50
       },
       "geometry": {
@@ -356,7 +336,6 @@
         "marker-symbol": 21,
         "name": 21,
         "addr:street": "Wilkerstrasse",
-        "marker-size": "large",
         "apero": ", mit Apero vorem Baukon vo 17:30 bis 18:30",
         "addr:housenumber": 64,
         "level": ", im 1. Stock"
@@ -375,7 +354,6 @@
         "marker-symbol": 22,
         "name": 22,
         "addr:street": "Wilkerstrasse",
-        "marker-size": "large",
         "addr:housenumber": 52
       },
       "geometry": {
@@ -392,7 +370,6 @@
         "marker-symbol": 23,
         "name": 23,
         "addr:street": "Wilkerstrasse",
-        "marker-size": "large",
         "addr:housenumber": 50
       },
       "geometry": {
@@ -406,7 +383,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "large",
         "marker-symbol": 24,
         "name": 24,
         "addr:street": "Wilkerstrasse"
