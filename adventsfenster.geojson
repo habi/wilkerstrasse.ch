@@ -8,7 +8,6 @@
         "name": 1,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 68,
-        "level": "",
         "marker-size": "large"
       },
       "geometry": {
@@ -26,7 +25,6 @@
         "name": 2,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": "",
-        "level": "",
         "marker-size": "large"
       },
       "geometry": {
@@ -78,7 +76,6 @@
         "name": 5,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": "",
-        "level": "",
         "marker-size": "large"
       },
       "geometry": {
@@ -96,7 +93,6 @@
         "name": 6,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": "",
-        "level": "",
         "marker-size": "large"
       },
       "geometry": {
@@ -150,7 +146,6 @@
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 52,
         "marker-size": "large",
-        "level": "",
         "apero": ", mitemene Apero zwüsche Huus 52 und 56 vo 19:00 a"
       },
       "geometry": {
@@ -205,7 +200,6 @@
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 50,
         "marker-size": "large",
-        "level": "",
         "apero": ", mit emene Apero vo 17:00-19:00 bir Rutschbahn"
       },
       "geometry": {
@@ -294,7 +288,6 @@
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 70,
         "marker-size": "large",
-        "level": "",
         "apero": ", mit emene Apero vorem Huus vo 17:00 bis 19:00"
       },
       "geometry": {
