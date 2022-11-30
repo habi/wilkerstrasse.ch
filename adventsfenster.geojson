@@ -6,13 +6,11 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 1,
-        "name": "Unnamed Layer",
+        "name": 1,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 50,
-        "level": ", im 2. Stock",
-        "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "addr:housenumber": 68,
+        "level": "",
+        "marker-size": "large"
       },
       "geometry": {
         "coordinates": [
@@ -46,12 +44,10 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 3,
-        "name": "Unnamed Layer",
+        "name": 3,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 52,
-        "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "addr:housenumber": "",
+        "marker-size": "large"
       },
       "geometry": {
         "coordinates": [
@@ -84,13 +80,11 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 5,
-        "name": "Unnamed Layer",
+        "name": 5,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 64,
-        "level": ", im Ärdgschoss",
-        "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "addr:housenumber": "",
+        "level": "",
+        "marker-size": "large"
       },
       "geometry": {
         "coordinates": [
@@ -105,13 +99,11 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 6,
-        "name": "Unnamed Layer",
+        "name": 6,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 64,
-        "level": ", im 1. Stock",
-        "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "addr:housenumber": "",
+        "level": "",
+        "marker-size": "large"
       },
       "geometry": {
         "coordinates": [
@@ -126,12 +118,10 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 7,
-        "name": "Unnamed Layer",
+        "name": 7,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 50,
-        "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "addr:housenumber": 78,
+        "marker-size": "large"
       },
       "geometry": {
         "coordinates": [
@@ -146,13 +136,11 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 8,
-        "name": "Unnamed Layer",
+        "name": 8,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 64,
-        "level": "",
-        "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "level": ", im Ärdgschoss",
+        "marker-size": "large"
       },
       "geometry": {
         "coordinates": [
@@ -167,12 +155,12 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 9,
-        "name": "Unnamed Layer",
+        "name": 9,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 52,
         "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "level": "",
+        "apero": ", mitemene Apero zwüsche Huus 52 und 56 vo 19:00 a"
       },
       "geometry": {
         "coordinates": [
@@ -187,12 +175,11 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 10,
-        "name": "Unnamed Layer",
+        "name": 10,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 52,
+        "addr:housenumber": "",
         "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "apero": ""
       },
       "geometry": {
         "coordinates": [
@@ -207,13 +194,11 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 11,
-        "name": "Unnamed Layer",
+        "name": 11,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 50,
+        "addr:housenumber": 68,
         "marker-size": "large",
-        "shape": "Marker",
-        "category": "default",
-        "level": ""
+        "level": ", im Ärdgschoss"
       },
       "geometry": {
         "coordinates": [
@@ -228,13 +213,12 @@
       "properties": {
         "marker-color": "#EE4B2B",
         "marker-symbol": 12,
-        "name": "Unnamed Layer",
+        "name": 12,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 50,
         "marker-size": "large",
-        "shape": "Marker",
-        "category": "default",
-        "level": "mit emene Apero (17-19 bir Rutschbahn)"
+        "level": "",
+        "apero": ", mit emene Apero vo 17:00-19:00 bir Rutschbahn"
       },
       "geometry": {
         "coordinates": [
@@ -249,12 +233,10 @@
       "properties": {
         "marker-symbol": 13,
         "marker-color": "#ff0000",
-        "name": "Unnamed Layer",
+        "name": 13,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 52,
-        "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "addr:housenumber": 56,
+        "marker-size": "large"
       },
       "geometry": {
         "coordinates": [
@@ -271,7 +253,7 @@
         "marker-color": "#ff0000",
         "name": 14,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
+        "addr:housenumber": 60,
         "marker-size": "large"
       },
       "geometry": {
@@ -289,8 +271,10 @@
         "marker-color": "#ff0000",
         "name": 15,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
-        "marker-size": "large"
+        "addr:housenumber": 56,
+        "marker-size": "large",
+        "level": ", im 2. Stock",
+        "apero": ""
       },
       "geometry": {
         "coordinates": [
@@ -305,12 +289,10 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 16,
-        "name": "Unnamed Layer",
+        "name": 16,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": "",
-        "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "marker-size": "large"
       },
       "geometry": {
         "coordinates": [
@@ -325,13 +307,12 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 17,
-        "name": "Unnamed Layer",
+        "name": 17,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 52,
+        "addr:housenumber": 70,
         "marker-size": "large",
         "level": "",
-        "shape": "Marker",
-        "category": "default"
+        "apero": ", mit emene Apero vorem Huus vo 17:00 bis 19:00"
       },
       "geometry": {
         "coordinates": [
@@ -346,13 +327,11 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 18,
-        "name": "Unnamed Layer",
+        "name": 18,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 64,
+        "addr:housenumber": "",
         "level": ", im 2. Stock",
-        "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "marker-size": "large"
       },
       "geometry": {
         "coordinates": [
@@ -367,12 +346,10 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 19,
-        "name": "Unnamed Layer",
+        "name": 19,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 50,
-        "marker-size": "large",
-        "shape": "Marker",
-        "category": "default"
+        "addr:housenumber": 52,
+        "marker-size": "large"
       },
       "geometry": {
         "coordinates": [
@@ -389,7 +366,8 @@
         "name": 20,
         "addr:street": "Wilkerstrasse",
         "marker-color": "#ff0000",
-        "marker-size": "large"
+        "marker-size": "large",
+        "addr:housenumber": 50
       },
       "geometry": {
         "coordinates": [
@@ -406,7 +384,10 @@
         "name": 21,
         "marker-color": "#ff0000",
         "addr:street": "Wilkerstrasse",
-        "marker-size": "large"
+        "marker-size": "large",
+        "apero": ", mit Apero vorem Baukon vo 17:30 bis 18:30",
+        "addr:housenumber": 64,
+        "level": ", im 1. Stock"
       },
       "geometry": {
         "coordinates": [
@@ -423,7 +404,8 @@
         "name": 22,
         "marker-color": "#ff0000",
         "addr:street": "Wilkerstrasse",
-        "marker-size": "large"
+        "marker-size": "large",
+        "addr:housenumber": 52
       },
       "geometry": {
         "coordinates": [
@@ -440,7 +422,8 @@
         "name": 23,
         "marker-color": "#ff0000",
         "addr:street": "Wilkerstrasse",
-        "marker-size": "large"
+        "marker-size": "large",
+        "addr:housenumber": 50
       },
       "geometry": {
         "coordinates": [
