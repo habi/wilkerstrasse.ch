@@ -6,18 +6,20 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 1,
-        "name": 1,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 50,
         "level": ", im 2. Stock",
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.4196553230285645,
-          46.93477736834402
-        ]
+          7.417523277531787,
+          46.93574272076388
+        ],
+        "type": "Point"
       }
     },
     {
@@ -32,11 +34,11 @@
         "marker-size": "large"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419140338897704,
-          46.9368359280321
-        ]
+          7.419230258771022,
+          46.937158824164264
+        ],
+        "type": "Point"
       }
     },
     {
@@ -44,17 +46,19 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 3,
-        "name": 3,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 52,
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419350892305374,
-          46.934987989739824
-        ]
+          7.419075919873318,
+          46.93678689613216
+        ],
+        "type": "Point"
       }
     },
     {
@@ -68,11 +72,11 @@
         "marker-size": "large"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.4192047119140625,
-          46.93691284776783
-        ]
+          7.4192946317873805,
+          46.93723574389999
+        ],
+        "type": "Point"
       }
     },
     {
@@ -80,18 +84,20 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 5,
-        "name": 5,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 64,
         "level": ", im Ärdgschoss",
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.417982965707779,
-          46.935587798306514
-        ]
+          7.419139919873318,
+          46.93696189613216
+        ],
+        "type": "Point"
       }
     },
     {
@@ -99,18 +105,20 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 6,
-        "name": 6,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 64,
         "level": ", im 1. Stock",
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.418044656515121,
-          46.935439449332165
-        ]
+          7.419518919873318,
+          46.93686089613216
+        ],
+        "type": "Point"
       }
     },
     {
@@ -118,17 +126,19 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 7,
-        "name": 7,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 50,
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419434040784836,
-          46.934813998211496
-        ]
+          7.417589811968438,
+          46.936172893305674
+        ],
+        "type": "Point"
       }
     },
     {
@@ -136,18 +146,20 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 8,
-        "name": 8,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 64,
-        "level": ", im Ärdgschoss",
-        "marker-size": "large"
+        "level": "",
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.417969554662704,
-          46.93547424727662
-        ]
+          7.417983321243823,
+          46.935586498963694
+        ],
+        "type": "Point"
       }
     },
     {
@@ -155,17 +167,19 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 9,
-        "name": 9,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 52,
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419629842042923,
-          46.93489092085162
-        ]
+          7.419140013868475,
+          46.93505012051627
+        ],
+        "type": "Point"
       }
     },
     {
@@ -173,17 +187,19 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 10,
-        "name": 10,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 52,
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419198006391524,
-          46.93494037106193
-        ]
+          7.419298919873318,
+          46.93675389613216
+        ],
+        "type": "Point"
       }
     },
     {
@@ -191,35 +207,41 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 11,
-        "name": 11,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 50,
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default",
+        "level": ""
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.4195292592048645,
-          46.93488267914547
-        ]
+          7.417719880436368,
+          46.93564811388751
+        ],
+        "type": "Point"
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#EE4B2B",
         "marker-symbol": 12,
-        "name": 12,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 50,
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default",
+        "level": "mit emene Apero (17-19 bir Rutschbahn)"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419762611389161,
-          46.93486527998385
-        ]
+          7.419276180132337,
+          46.935051859798364
+        ],
+        "type": "Point"
       }
     },
     {
@@ -227,17 +249,19 @@
       "properties": {
         "marker-symbol": 13,
         "marker-color": "#ff0000",
-        "name": 13,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 52,
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.4191537499427795,
-          46.93505758619287
-        ]
+          7.418716562978841,
+          46.93525176827457
+        ],
+        "type": "Point"
       }
     },
     {
@@ -251,11 +275,11 @@
         "marker-size": "large"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419239580631256,
-          46.93701174440854
-        ]
+          7.4184108721411235,
+          46.935346669692805
+        ],
+        "type": "Point"
       }
     },
     {
@@ -269,11 +293,11 @@
         "marker-size": "large"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419172525405883,
-          46.9370886638917
-        ]
+          7.418887371383334,
+          46.935158102668225
+        ],
+        "type": "Point"
       }
     },
     {
@@ -281,17 +305,19 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 16,
-        "name": 16,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": "",
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.4188292026519775,
-          46.935147328854065
-        ]
+          7.419868919873318,
+          46.93675189613216
+        ],
+        "type": "Point"
       }
     },
     {
@@ -299,18 +325,20 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 17,
-        "name": 17,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 52,
         "marker-size": "large",
-        "level": ""
+        "level": "",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.4197572469711295,
-          46.93472059199992
-        ]
+          7.417760640045155,
+          46.93582534314695
+        ],
+        "type": "Point"
       }
     },
     {
@@ -318,18 +346,20 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 18,
-        "name": 18,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 64,
         "level": ", im 2. Stock",
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.418157309293747,
-          46.93548523609648
-        ]
+          7.419704349100569,
+          46.9369981280588
+        ],
+        "type": "Point"
       }
     },
     {
@@ -337,17 +367,19 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-symbol": 19,
-        "name": 19,
+        "name": "Unnamed Layer",
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 50,
-        "marker-size": "large"
+        "marker-size": "large",
+        "shape": "Marker",
+        "category": "default"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419545352458953,
-          46.934784694319504
-        ]
+          7.419224660574653,
+          46.934975812214624
+        ],
+        "type": "Point"
       }
     },
     {
@@ -360,11 +392,11 @@
         "marker-size": "large"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419073283672333,
-          46.93709232672147
-        ]
+          7.419063223672367,
+          46.9350276658793
+        ],
+        "type": "Point"
       }
     },
     {
@@ -377,11 +409,11 @@
         "marker-size": "large"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.418965995311736,
-          46.93706302407626
-        ]
+          7.418114405175145,
+          46.935491462861
+        ],
+        "type": "Point"
       }
     },
     {
@@ -394,11 +426,11 @@
         "marker-size": "large"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.4189431965351105,
-          46.93698702026548
-        ]
+          7.419138755256313,
+          46.9349832105644
+        ],
+        "type": "Point"
       }
     },
     {
@@ -411,11 +443,11 @@
         "marker-size": "large"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.418986111879348,
-          46.936911932057335
-        ]
+          7.4195515576118956,
+          46.93484960734846
+        ],
+        "type": "Point"
       }
     },
     {
@@ -428,11 +460,11 @@
         "addr:street": "Wilkerstrasse"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          7.419049143791198,
-          46.9368359280321
-        ]
+          7.419139063664516,
+          46.937158824164264
+        ],
+        "type": "Point"
       }
     }
   ]
