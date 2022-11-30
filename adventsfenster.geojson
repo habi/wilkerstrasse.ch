@@ -20,86 +20,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": 2,
-        "name": 2,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": ""
-      },
-      "geometry": {
-        "coordinates": [
-          7.419230258771022,
-          46.937158824164264
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 3,
-        "name": 3,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": ""
-      },
-      "geometry": {
-        "coordinates": [
-          7.419075919873318,
-          46.93678689613216
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 4,
-        "name": 4,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": ""
-      },
-      "geometry": {
-        "coordinates": [
-          7.4192946317873805,
-          46.93723574389999
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 5,
-        "name": 5,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": ""
-      },
-      "geometry": {
-        "coordinates": [
-          7.419139919873318,
-          46.93696189613216
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 6,
-        "name": 6,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": ""
-      },
-      "geometry": {
-        "coordinates": [
-          7.419518919873318,
-          46.93686089613216
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-symbol": 7,
         "name": 7,
         "addr:street": "Wilkerstrasse",
@@ -143,23 +63,6 @@
         "coordinates": [
           7.419140013868475,
           46.93505012051627
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 10,
-        "name": 10,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
-        "apero": ""
-      },
-      "geometry": {
-        "coordinates": [
-          7.419298919873318,
-          46.93675389613216
         ],
         "type": "Point"
       }
@@ -251,22 +154,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": 16,
-        "name": 16,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": ""
-      },
-      "geometry": {
-        "coordinates": [
-          7.419868919873318,
-          46.93675189613216
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-symbol": 17,
         "name": 17,
         "addr:street": "Wilkerstrasse",
@@ -277,23 +164,6 @@
         "coordinates": [
           7.417760640045155,
           46.93582534314695
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 18,
-        "name": 18,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": "",
-        "level": ", im 2. Stock"
-      },
-      "geometry": {
-        "coordinates": [
-          7.419704349100569,
-          46.9369981280588
         ],
         "type": "Point"
       }
@@ -376,21 +246,6 @@
         "coordinates": [
           7.4195515576118956,
           46.93484960734846
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 24,
-        "name": 24,
-        "addr:street": "Wilkerstrasse"
-      },
-      "geometry": {
-        "coordinates": [
-          7.419139063664516,
-          46.937158824164264
         ],
         "type": "Point"
       }
