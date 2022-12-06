@@ -91,12 +91,13 @@
         "name": 12,
         "addr:street": "Wilkerstrasse",
         "addr:housenumber": 50,
-        "apero": ", mit emene Apero vo 17:00-19:00 bir Rutschbahn"
+        "apero": ", mit emene Apero vo 17:00-19:00 bir Rutschbahn",
+        "level": ", im 2. Stock"
       },
       "geometry": {
         "coordinates": [
-          7.41929101909711,
-          46.935019435964136
+          7.419570920185358,
+          46.93482950601472
         ],
         "type": "Point"
       }
@@ -208,12 +209,13 @@
         "marker-symbol": 20,
         "name": 20,
         "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 50
+        "addr:housenumber": 50,
+        "level": ", im 2. Stock"
       },
       "geometry": {
         "coordinates": [
-          7.419051352500617,
-          46.935021586409576
+          7.419460707844678,
+          46.934871075949715
         ],
         "type": "Point"
       }
@@ -262,8 +264,8 @@
       },
       "geometry": {
         "coordinates": [
-          7.4195634287836745,
-          46.93482934237681
+          7.419649148492282,
+          46.93478753381074
         ],
         "type": "Point"
       }
