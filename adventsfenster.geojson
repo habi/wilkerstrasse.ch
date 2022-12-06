@@ -11,8 +11,8 @@
       },
       "geometry": {
         "coordinates": [
-          7.417523277531787,
-          46.93574272076388
+          7.41751397875092,
+          46.93574907013924
         ],
         "type": "Point"
       }
@@ -154,6 +154,24 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": 16,
+        "name": 16,
+        "addr:street": "Wilkerstrasse",
+        "addr:housenumber": 64,
+        "level": ", im 2. Stock",
+        "apero": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7.418098018202715,
+          46.93544940986595
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-symbol": 17,
         "name": 17,
         "addr:street": "Wilkerstrasse",
@@ -212,8 +230,8 @@
       },
       "geometry": {
         "coordinates": [
-          7.4181322119328845,
-          46.93547930402685
+          7.41813841112119,
+          46.93551316749609
         ],
         "type": "Point"
       }
