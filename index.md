@@ -1,8 +1,8 @@
 # Strassenfest Wilkerstrasse
 
-Ds Wilkerstrassefescht 2023 findet am 26. Ouguscht statt.
-Wes denn megafescht rägnet, probieremer eventuell am 2. Septämber nomau.
-Bhautetnech mau beidi Date frei.
+Das Wilkerstrassefest 2023 findet am 26. August statt.
+Wenn es dann richtig schlecht Wetter ist, verschieben wir eventuell auf den 2. September.
+Haltet euch mal beide Daten frei.
 
 <!--
 ## Programm
@@ -22,9 +22,9 @@ Bhautetnech mau beidi Date frei.
 | Aufräumen                                   | ca. 23:00      |
 -->
 
-## Amäude und Biitrage
+## Anmeldung und Beiträge
 
-Bitte hie unge iitrage.
+Bitte hier unten eintragen.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfzXNL7lqKhPBdIhRUW13hTf97_g0bgl6unWWic6UU5auPImQ/viewform?embedded=true"
 	width="800"
