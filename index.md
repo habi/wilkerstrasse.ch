@@ -11,7 +11,7 @@ Haltet euch mal beide Daten frei.
 | Kinder-Schminken und Aufbau                 | 14:30 - 16:30  |
 | Ankommen und Apéro                          | 16:00 - 18:00  |
 | Spiel und Sport auf der Wilkerstrasse       | Die ganze Zeit |
-| Zuckerwattemaschine                         | zum Zvieri     |
+| Schatzsuche für Klein und Gross             | ca. zum Zvieri |
 | Bobbycar-, Trottinett- und Fahrzeuge-Rennen | ca. 16:30      |
 | Gummientenrennen im Bach                    | vorem Znacht   |
 | Znacht (Grill & Salat-Buffet)               | ab 18:00       |
