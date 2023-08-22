@@ -16,6 +16,7 @@ Haltet euch mal beide Daten frei.
 | Gummientenrennen im Bach                    | vorem Znacht   |
 | Znacht (Grill & Salat-Buffet)               | ab 18:00       |
 | Kinderfilm                                  | 19:00          |
+| Strassenmusik mit Gitarre                   | 19:30          |
 | Frisch gemachte Crêpes                      | 19:30 - 20:30  |
 | Dessertbuffet                               | ab 20:00       |
 | Aufräumen                                   | ca. 23:00      |
