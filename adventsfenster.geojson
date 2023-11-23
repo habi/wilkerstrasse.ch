@@ -1,274 +1,140 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 1,
-        "name": 1,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 68
-      },
-      "geometry": {
-        "coordinates": [
-          7.41751397875092,
-          46.93574907013924
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 7,
-        "name": 7,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 78
-      },
-      "geometry": {
-        "coordinates": [
-          7.417583876382534,
-          46.9362113957719
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 8,
-        "name": 8,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 64,
-        "level": ", im Ärdgschoss"
-      },
-      "geometry": {
-        "coordinates": [
-          7.417983321243823,
-          46.935586498963694
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 9,
-        "name": 9,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 52,
-        "apero": ", mitemene Apero zwüsche Huus 52 und 56 vo 19:00 a"
-      },
-      "geometry": {
-        "coordinates": [
-          7.419154852833248,
-          46.93506633242665
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 11,
-        "name": 11,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 68,
-        "level": ", im Ärdgschoss"
-      },
-      "geometry": {
-        "coordinates": [
-          7.417719880436368,
-          46.93564811388751
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 12,
-        "name": 12,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 50,
-        "apero": ", mit emene Apero vo 17:00-19:00 bir Rutschbahn",
-        "level": ", im 2. Stock"
-      },
-      "geometry": {
-        "coordinates": [
-          7.419570920185358,
-          46.93482950601472
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 13,
-        "name": 13,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 56
-      },
-      "geometry": {
-        "coordinates": [
-          7.418701724015119,
-          46.935225424010255
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 14,
-        "name": 14,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 60
-      },
-      "geometry": {
-        "coordinates": [
-          7.4184108721411235,
-          46.935346669692805
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 15,
-        "name": 15,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 56,
-        "level": ", im 2. Stock",
-        "apero": ""
-      },
-      "geometry": {
-        "coordinates": [
-          7.418887371383334,
-          46.93512770538635
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 16,
-        "name": 16,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 64,
-        "level": ", im 2. Stock",
-        "apero": ""
-      },
-      "geometry": {
-        "coordinates": [
-          7.418098018202715,
-          46.93544940986595
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 17,
-        "name": 17,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 70,
-        "apero": ", mit emene Apero vorem Huus vo 17:00 bis 19:00"
-      },
-      "geometry": {
-        "coordinates": [
-          7.417760640045155,
-          46.93582534314695
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 19,
-        "name": 19,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 52
-      },
-      "geometry": {
-        "coordinates": [
-          7.419254338503119,
-          46.9349393353499
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 20,
-        "name": 20,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 50,
-        "level": ", im 2. Stock"
-      },
-      "geometry": {
-        "coordinates": [
-          7.419460707844678,
-          46.934871075949715
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 21,
-        "name": 21,
-        "addr:street": "Wilkerstrasse",
-        "apero": ", mit Apero vorem Baukon vo 17:30 bis 18:30",
-        "addr:housenumber": 64,
-        "level": ", im 1. Stock"
-      },
-      "geometry": {
-        "coordinates": [
-          7.41813841112119,
-          46.93551316749609
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 22,
-        "name": 22,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 52
-      },
-      "geometry": {
-        "coordinates": [
-          7.419153594221115,
-          46.93498118407298
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 23,
-        "name": 23,
-        "addr:street": "Wilkerstrasse",
-        "addr:housenumber": 50
-      },
-      "geometry": {
-        "coordinates": [
-          7.419649148492282,
-          46.93478753381074
-        ],
-        "type": "Point"
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "22",
+                "level": ", im Ärdgschoss",
+                "name": "22",
+                "addr:housenumber": "74",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41732179850,
+                    46.93582863741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "70",
+                "name": "16",
+                "addr:street": "Wilkerstrasse",
+                "marker-symbol": "16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41785988178,
+                    46.93590226433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17",
+                "addr:housenumber": "60",
+                "marker-symbol": "17",
+                "addr:street": "Wilkerstrasse",
+                "level": ", im Ärdgschoss"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41836259238,
+                    46.93539245654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "52",
+                "marker-symbol": "13",
+                "name": "13",
+                "addr:street": "Wilkerstrasse",
+                "level": ", im 1. Stock"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41915359422,
+                    46.93498118407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3",
+                "addr:housenumber": "60",
+                "marker-symbol": "3",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41847783059,
+                    46.93529751195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "10",
+                "level": ", im Ärdgschoss",
+                "name": "10",
+                "addr:housenumber": "68",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41771988044,
+                    46.93564811389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "apero": ", mit emene Apero",
+                "addr:housenumber": "50",
+                "marker-symbol": "1",
+                "name": "1",
+                "addr:street": "Wilkerstrasse",
+                "level": ", im 2. Stock"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41957092019,
+                    46.93482950601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "50",
+                "marker-symbol": "15",
+                "name": "15",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41964914849,
+                    46.93478753381
+                ]
+            }
+        }
+    ]
 }
