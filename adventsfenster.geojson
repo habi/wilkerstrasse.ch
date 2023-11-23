@@ -5,7 +5,6 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-symbol": "22",
                 "level": ", im Ärdgschoss",
                 "name": "22",
                 "addr:housenumber": "74",
@@ -24,8 +23,7 @@
             "properties": {
                 "addr:housenumber": "70",
                 "name": "16",
-                "addr:street": "Wilkerstrasse",
-                "marker-symbol": "16"
+                "addr:street": "Wilkerstrasse"
             },
             "geometry": {
                 "type": "Point",
@@ -40,7 +38,6 @@
             "properties": {
                 "name": "17",
                 "addr:housenumber": "60",
-                "marker-symbol": "17",
                 "addr:street": "Wilkerstrasse",
                 "level": ", im Ärdgschoss"
             },
@@ -56,7 +53,6 @@
             "type": "Feature",
             "properties": {
                 "addr:housenumber": "52",
-                "marker-symbol": "13",
                 "name": "13",
                 "addr:street": "Wilkerstrasse",
                 "level": ", im 1. Stock"
@@ -74,7 +70,6 @@
             "properties": {
                 "name": "3",
                 "addr:housenumber": "60",
-                "marker-symbol": "3",
                 "addr:street": "Wilkerstrasse"
             },
             "geometry": {
@@ -88,7 +83,6 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-symbol": "10",
                 "level": ", im Ärdgschoss",
                 "name": "10",
                 "addr:housenumber": "68",
@@ -107,7 +101,6 @@
             "properties": {
                 "apero": ", mit emene Apero",
                 "addr:housenumber": "50",
-                "marker-symbol": "1",
                 "name": "1",
                 "addr:street": "Wilkerstrasse",
                 "level": ", im 2. Stock"
@@ -124,7 +117,6 @@
             "type": "Feature",
             "properties": {
                 "addr:housenumber": "50",
-                "marker-symbol": "15",
                 "name": "15",
                 "addr:street": "Wilkerstrasse"
             },
