@@ -1,7 +1,9 @@
 # Strassenfest Wilkerstrasse
 
-Das Wilkerstrassefest 2023 findet am 26. August statt.
+Das Wilkerstrassefest 2024 findet am 17. August statt.
+Details erscheinen hier, sobald diese bekannt sind.
 
+<!---
 ## Programm
 
 | Was                                         | Wenn           |
@@ -19,7 +21,6 @@ Das Wilkerstrassefest 2023 findet am 26. August statt.
 | Dessertbuffet                               | ab 20:00       |
 | Aufräumen                                   | ca. 23:00      |
 
-<!--
 ## Anmeldung und Beiträge
 
 Bitte hier unten eintragen.
