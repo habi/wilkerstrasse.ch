@@ -3,20 +3,15 @@
 Das Wilkerstrassefest 2024 findet am 17. August statt.
 Details erscheinen hier, sobald diese bekannt sind.
 
-<!---
-## Programm
+## Programm (noch nicht fix)
 
 | Was                                         | Wenn           |
 |---------------------------------------------|----------------|
-| Kinder-Schminken und Aufbau                 | 14:30 - 16:30  |
+| Aufbau                                      | 14:30 - 16:00  |
 | Ankommen und Apéro                          | 16:00 - 18:00  |
 | Spiel und Sport auf der Wilkerstrasse       | Die ganze Zeit |
-| Schatzsuche für Klein und Gross             | ca. zum Zvieri |
 | Bobbycar-, Trottinett- und Fahrzeuge-Rennen | ca. 16:30      |
-| Gummientenrennen im Bach                    | vorem Znacht   |
 | Znacht (Grill & Salat-Buffet)               | ab 18:00       |
-| Kinderfilm                                  | 19:00          |
-| Strassenmusik mit Gitarre                   | 19:30          |
 | Frisch gemachte Crêpes                      | 19:30 - 20:30  |
 | Dessertbuffet                               | ab 20:00       |
 | Aufräumen                                   | ca. 23:00      |
@@ -31,4 +26,3 @@ Bitte hier unten eintragen.
 	frameborder="0"
 	marginheight="0"
 	marginwidth="0">Loading…</iframe>
- -->
