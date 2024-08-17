@@ -10,9 +10,10 @@ Details erscheinen hier, sobald diese bekannt sind.
 | Aufbau                                      | 14:30 - 16:00  |
 | Ankommen und Apéro                          | 16:00 - 18:00  |
 | Spiel und Sport auf der Wilkerstrasse       | Die ganze Zeit |
-| Bobbycar-, Trottinett- und Fahrzeuge-Rennen | ca. 16:30      |
+| Bobbycar-, Trottinett- und Fahrzeuge-Rennen | ca. 17:00      |
 | Znacht (Grill & Salat-Buffet)               | ab 18:00       |
 | Frisch gemachte Crêpes                      | 19:30 - 20:30  |
+| Kinderfilm (drinnen)                        | ca. 19:30      |
 | Dessertbuffet                               | ab 20:00       |
 | Aufräumen                                   | ca. 23:00      |
 
