@@ -1,26 +1,6 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<!--
-Oldschool handcraftetd HTML by email@davidhaberthuer.ch
-//-->
-<html>
-    <head>
-        <title>Strassenfest Wilkerstrasse</title>
-        <style>
-           body {
-               margin: 0;            /* Reset default margin */
-               width:400px;          /* set smallish width */
-                }
-            iframe {
-                display: block;       /* iframes are inline by default */
-                background: #FF0000;  /* red */
-                border: 0;            /* Reset default border */
-                height: 100vh;        /* Viewport-relative units */
-                width: 100vw;
-            }
-        </style>
-    </head>
-    <body>
-        Ds Wilkerstrassefescht 2022 findet am 27. Ouguscht vo öppe am vieri bis spät am Abe statt.
-        </iframe>
-    </body>
-</html>
+# wilkerstrasse.ch
+
+Das hier ist die Platzhalter-Webseite für das Strassenfest und den Adventskalender an der Wilkerstrasse.
+Aktuell gibt's grad nüt zu sehen.
+
+<a title="Oli Chatelain, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Strassenschild_Wilkerstrasse.jpg"><img width="512" alt="Strassenschild Wilkerstrasse" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Strassenschild_Wilkerstrasse.jpg/512px-Strassenschild_Wilkerstrasse.jpg?20210428203930"></a>
