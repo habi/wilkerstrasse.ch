@@ -5,120 +5,6 @@
         {
             "type": "Feature",
             "properties": {
-                "addr:housenumber": "60",
-                "name": "18",
-                "level": ", im Ärdgschoss",
-                "apero": ", mit Glüehwii am haubi sibni",
-                "addr:street": "Wilkerstrasse"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41853147477,
-                    46.93534970899
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "60",
-                "name": "6",
-                "level": ", im Ärdgschoss",
-                "addr:street": "Wilkerstrasse"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41820022196,
-                    46.93569402507
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "52",
-                "name": "13",
-                "addr:street": "Wilkerstrasse",
-                "level": ", im 1. Stock"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41915359422,
-                    46.93498118407
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "level": ", im Ärdgschoss",
-                "addr:street": "Wilkerstrasse",
-                "apero": ", mit Crêpe und Glühwein",
-                "addr:housenumber": "56",
-                "name": "20"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41872727603,
-                    46.93524073615
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "9",
-                "level": ", im Ärdgschoss",
-                "addr:street": "Wilkerstrasse",
-                "addr:housenumber": "68"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41771474213,
-                    46.93563724971
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "16",
-                "addr:street": "Wilkerstrasse",
-                "level": ", im 2. Stock",
-                "addr:housenumber": "56"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41888985004,
-                    46.93514403637
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "50",
-                "name": "14",
-                "addr:street": "Wilkerstrasse",
-                "level": ", im 3. Stock"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41962246530,
-                    46.93482910848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "addr:housenumber": "64",
                 "apero": ", mit Apero am füfi",
                 "name": "8",
@@ -136,16 +22,16 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "3",
-                "addr:housenumber": "60",
-                "level": ", im Ärdgschoss",
-                "addr:street": "Wilkerstrasse"
+                "name": "13",
+                "addr:housenumber": "52",
+                "addr:street": "Wilkerstrasse",
+                "level": ", im 1. Stock"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.41838931769,
-                    46.93531674245
+                    7.41915359422,
+                    46.93498118407
                 ]
             }
         },
@@ -169,11 +55,44 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "4",
+                "level": ", im 1. Stock",
+                "addr:housenumber": "68",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41753369436,
+                    46.93576087251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": ", im Ärdgschoss",
+                "addr:street": "Wilkerstrasse",
+                "name": "20",
+                "addr:housenumber": "56",
+                "apero": ", mit Crêpe und Glühwein"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41872727603,
+                    46.93524073615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "15",
                 "apero": ", mit Apero am haubi füfi",
                 "addr:street": "Wilkerstrasse",
-                "level": ", im 1. Stock",
-                "addr:housenumber": "56"
+                "addr:housenumber": "56",
+                "level": ", im 1. Stock"
             },
             "geometry": {
                 "type": "Point",
@@ -196,6 +115,103 @@
                 "coordinates": [
                     7.41965397924,
                     46.93491290056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "9",
+                "level": ", im Ärdgschoss",
+                "addr:housenumber": "68",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41771474213,
+                    46.93563724971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16",
+                "addr:street": "Wilkerstrasse",
+                "addr:housenumber": "56",
+                "level": ", im 2. Stock"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41888985004,
+                    46.93514403637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "18",
+                "addr:housenumber": "60",
+                "level": ", im Ärdgschoss",
+                "apero": ", mit Glüehwii am haubi sibni",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41853147477,
+                    46.93534970899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "50",
+                "name": "14",
+                "addr:street": "Wilkerstrasse",
+                "level": ", im 3. Stock"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41962246530,
+                    46.93482910848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "60",
+                "name": "6",
+                "level": ", im Ärdgschoss",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41820022196,
+                    46.93569402507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3",
+                "addr:housenumber": "60",
+                "level": ", im Ärdgschoss",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41838931769,
+                    46.93531674245
                 ]
             }
         }
