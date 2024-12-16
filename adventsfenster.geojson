@@ -48,8 +48,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.41961651775,
-                    46.93488078777
+                    7.41968385038,
+                    46.93493579556
                 ]
             }
         },
@@ -98,22 +98,6 @@
                 "coordinates": [
                     7.41838931769,
                     46.93531674245
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "50",
-                "name": "19",
-                "addr:street": "Wilkerstrasse",
-                "level": ", im 2. Stock"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41968616575,
-                    46.93492572098
                 ]
             }
         },
@@ -194,8 +178,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.41950713031,
-                    46.93486573831
+                    7.41950833268,
+                    46.93485096008
                 ]
             }
         },
