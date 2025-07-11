@@ -106,6 +106,7 @@ Im Vorstand sind folgende Ressorts vertreten:
 
 - Präsidium
 - Vizepräsidium
+- Buchhaltungs-Abteilung
 - Social-Media-Abteilung
 - Informatik-Abteilung
 
