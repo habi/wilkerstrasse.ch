@@ -7,7 +7,8 @@ Details erscheinen nadisna hier.
 
 | Was                                         | Wenn                 |
 |---------------------------------------------|----------------------|
-| Aufbau                                      | 14:30 - 16:00        |
+| Kinderschminken                             | 14:00 - 16:00        |
+| Aufbau                                      | ~15:00 - 16:00       |
 | Ankommen und Apéro                          | 16:00 - 18:00        |
 | Spiel und Sport auf der Wilkerstrasse       | die ganze Zeit       |
 | Flohmi                                      | ou mau               |
