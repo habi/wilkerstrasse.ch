@@ -1,8 +1,8 @@
-----
+---
 title: Protokoll Gründungsversammlung des Vereins Wilkerstrasse-Nachbarschaft
 author: David Haberthür
 date: 12.07.2025
-----
+---
 
 - Andrea, Julia und David treffen sich zu einem Getränk der Wahl in der Pergola bei der Wilkerstrasse 50.
 - Aus Einfachheitsgründen wegen Buchhaltung zum Strassenfest gründen wir einen Verein.
