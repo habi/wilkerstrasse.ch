@@ -4,18 +4,18 @@ author: David Haberthür
 date: 12.07.2025
 ---
 
-# Name und Sitz
+## Name und Sitz
 
 Unter dem Namen *Wilkerstrasse-Nachbarschaft* besteht ein Verein im Sinne von Art. 60 ff. ZGB mit Sitz im Liebefeld.
 Der Verein ist politisch unabhängig und konfessionell neutral.
 
-# Ziel und Zweck
+## Ziel und Zweck
 
 Der Verein bezweckt die Nachbarschaftsaktivitäten an der Wilkerstrasse 50-78 zu bündeln und ca. jährlich ein Strassenfest durchzuführen (welches gleichzeitig die Mitgliederversammlung ist).
 Der Verein ist ausschliesslich gemeinnützig tätig und verfolgt keine Erwerbs- oder Selbsthilfezwecke.
 Die Organe sind allesamt ehrenamtlich tätig.
 
-# Mittel
+## Mittel
 
 Zur Verfolgung des Vereinszweckes verfügt der Verein über folgende Mittel:
 
@@ -25,7 +25,7 @@ Zur Verfolgung des Vereinszweckes verfügt der Verein über folgende Mittel:
 
 Der Verein erhebt keine Mitgliederbeiträge.
 
-# Mitgliedschaft
+## Mitgliedschaft
 
 Mitglieder können natürliche und juristische Personen werden, denen der Vereinszweck ein Anliegen ist und die in einem der Häuser an der Wilkerstrasse 50-78 im Liebefeld wohnen.
 
@@ -39,14 +39,14 @@ Sie haben volles Stimmrecht.
 
 Der Eintritt in den Verein kann jederzeit erfolgen, Aufnahmegesuche sind an den Vorstand zu richten; über die Aufnahme entscheidet der Vorstand endgültig.
 
-## Erlöschen der Mitgliedschaft
+### Erlöschen der Mitgliedschaft
 
 Die Mitgliedschaft erlischt
 
 - bei natürlichen Personen durch Austritt, Ausschluss oder Tod.
 - bei juristischen Personen durch Austritt, Ausschluss oder Auflösung der juristischen Person.
 
-## Austritt und Ausschluss
+### Austritt und Ausschluss
 
 Ein Vereinsaustritt ist jederzeit mit Meldung an den Vorstand möglich.
 Ein Mitglied kann jederzeit ohne Angaben von Gründen vom Vorstand ausgeschlossen werden.
@@ -102,7 +102,7 @@ Er erlässt Reglemente.
 Er kann Arbeitsgruppen (Fachgruppen) einsetzen.
 Er kann für die Erreichung der Vereinsziele Personen gegen eine angemessene Entschädigung anstellen (nach Arbeitsrecht) oder beauftragen
 
-#### Weitere Aufgaben und Kompetenzen des Vorstands
+#### Aufgaben und Kompetenzen des Vorstands
 
 Der Vorstand verfügt über alle Kompetenzen, die nicht von Gesetzes wegen oder gemäss diesen Statuten einem anderen Organ übertragen sind.
 
@@ -122,23 +122,23 @@ Sofern kein Vorstandsmitglied mündliche Beratung verlangt, ist die Beschlussfas
 
 Der Vorstand ist grundsätzlich ehrenamtlich und unentgeltlich tätig, er hat Anrecht auf Vergütung der effektiven Spesen.
 
-# Die Revisionsstelle
+## Die Revisionsstelle
 
 Die Mitgliederversammlung wählt eine juristische Person, welche die Buchführung kontrollieren und mindestens einmal jährlich eine Stichkontrolle durchführen.
 Die Revisionsstelle erstattet dem Vorstand zuhanden der Mitgliederversammlung Bericht.
 Die Amtszeit beträgt 3 Jahre.
 Wiederwahl ist zulässig.
 
-# Zeichnungsberechtigung
+## Zeichnungsberechtigung
 
 Der Verein wird verpflichtet durch die Kollektivunterschrift des/der Präsident/in zusammen mit einem weiteren Mitglied des Vorstandes.
 
-# Haftung
+## Haftung
 
 Für die Schulden des Vereins haftet nur das Vereinsvermögen.
 Eine persönliche Haftung der Mitglieder ist ausgeschlossen.
 
-# Datenschutz
+## Datenschutz
 
 Der Verein erhebt von den Mitgliedern auschliesslich diejenigen Personendaten, die zur Erfüllung des Vereinszwecks notwendig sind.
 Der Vorstand sorgt für eine dem Risiko angemessene Sicherheit der Daten.
@@ -146,13 +146,13 @@ Die Mitgliederdaten, namentlich der Name, die Adresse, die Telefonnummer sowie d
 Im Übrigen erfolgt eine Bekanntgabe der Daten an Dritte nur im Rahmen einer gesetzlich zulässigen Auftragsbearbeitung und wenn dies gesetzlich vorgeschrieben ist oder behördlich angeordnet wird.
 Die Bearbeitung der Mitgliederdaten erfolgt im Übrigen nach den Bestimmungen der schweizerischen Datenschutzgesetzgebung.
 
-# Auflösung des Vereins
+## Auflösung des Vereins
 
 Die Auflösung des Vereins kann durch Beschluss einer ordentlichen oder ausserordentlichen Mitgliederversammlung mit dem Stimmenmehr von 2/3 der anwesenden Mitglieder erfolgen.
 Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine steuerbefreite Organisation in der Schweiz, welche den gleichen oder einen ähnlichen Zweck verfolgt.
 Die Verteilung des Vereinsvermögens unter den Mitgliedern ist ausgeschlossen.
 
-# Inkrafttreten
+## Inkrafttreten
 
 Diese Statuten wurden an der Gründungsversammlung vom 12.07.2025 angenommen und sind mit diesem Datum in Kraft getreten.
 
