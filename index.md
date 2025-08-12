@@ -30,3 +30,11 @@ Bitte hier unten eintragen.
 	frameborder="0"
 	marginheight="0"
 	marginwidth="0">Loading…</iframe>
+
+<div id="rnw-solution-embed-vbrwm" style="width: 100%; margin: 0 auto; max-width: 580px;"></div>
+<script type="module">
+  import {SolutionEmbed} from "https://cdn.jsdelivr.net/npm/@raisenow/solution-embed@1/dist/index.js"
+  SolutionEmbed.render("#rnw-solution-embed-vbrwm", {
+    "url": "https://pay.raisenow.io/vbrwm",
+  })
+</script>
