@@ -12,6 +12,7 @@ Details erscheinen nadisna hier.
 | Ankommen und Apéro                          | 16:00 - 18:00        |
 | Spiel und Sport auf der Wilkerstrasse       | die ganze Zeit       |
 | Flohmi                                      | ou mau               |
+| Wasserschlacht                              | denn, wes heiss isch |
 | Bobbycar-, Trottinett- und Fahrzeuge-Rennen | irgedwann            |
 | Znacht (Grill & Salat-Buffet)               | chli speter          |
 | Frisch gemachte Crêpes                      | nachem Znacht        |
