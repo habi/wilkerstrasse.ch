@@ -1,6 +1,5 @@
 ---
 title: Statuten des Vereins Wilkerstrasse-Nachbarschaft
-author: David Haberthür
 date: 12.07.2025
 ---
 
