@@ -11,7 +11,7 @@ Details erscheinen nadisna hier.
 | Aufbau                                      | ~15:00 - 16:00       |
 | Ankommen und Apéro                          | 16:00 - 18:00        |
 | Spiel und Sport auf der Wilkerstrasse       | die ganze Zeit       |
-| Flohmi                                      | 16:00- ca. 17:30     |
+| Flohmi                                      | 16:00 - ca. 17:30    |
 | Bobbycar-, Trottinett- und Fahrzeuge-Rennen | 17:00                |
 | Wasserschlacht                              | 18:30                |
 | Znacht (Grill & Salat-Buffet)               | 18:30                |
