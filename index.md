@@ -11,14 +11,14 @@ Details erscheinen nadisna hier.
 | Aufbau                                      | ~15:00 - 16:00       |
 | Ankommen und Apéro                          | 16:00 - 18:00        |
 | Spiel und Sport auf der Wilkerstrasse       | die ganze Zeit       |
-| Flohmi                                      | ou mau               |
-| Wasserschlacht                              | denn, wes heiss isch |
-| Bobbycar-, Trottinett- und Fahrzeuge-Rennen | irgedwann            |
-| Znacht (Grill & Salat-Buffet)               | chli speter          |
-| Frisch gemachte Crêpes                      | nachem Znacht        |
-| Kinderfilm (drinnen)                        | öppe während Crêpes  |
-| Dessertbuffet                               | gäge später Abe      |
-| Aufräumen                                   | vorem ga lige        |
+| Flohmi                                      | 16:00- ca. 17:30     |
+| Bobbycar-, Trottinett- und Fahrzeuge-Rennen | 17:00                |
+| Wasserschlacht                              | 18:30                |
+| Znacht (Grill & Salat-Buffet)               | 18:30                |
+| Kinderfilm (drinnen)                        | 19:30                |
+| Frisch gemachte Crêpes                      | ca. 20:00            |
+| Dessertbuffet                               | 20:00                |
+| Aufräumen                                   | ca. 23:30            |
 
 ## Anmeldung und Beiträge
 
