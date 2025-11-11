@@ -5,16 +5,16 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "15",
+                "level": ", im Ärdgschoss",
                 "addr:street": "Wilkerstrasse",
-                "level": ", im EG",
-                "addr:housenumber": "70"
+                "name": "17",
+                "addr:housenumber": "60"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.41781451752,
-                    46.93586810417
+                    7.41849794850,
+                    46.93530392120
                 ]
             }
         },
@@ -23,15 +23,47 @@
             "properties": {
                 "level": ", im Ärdgschoss",
                 "addr:street": "Wilkerstrasse",
-                "apero": ", mit Snacks und Glühwein",
+                "name": "10",
+                "addr:housenumber": "50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41964062434,
+                    46.93477194242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": ", im Ärdgschoss",
+                "addr:street": "Wilkerstrasse",
+                "name": "20",
                 "addr:housenumber": "56",
-                "name": "20"
+                "apero": ", mit Snacks und Glühwein"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.41875409812,
                     46.93523341024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15",
+                "addr:housenumber": "70",
+                "addr:street": "Wilkerstrasse",
+                "level": ", im EG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41781451752,
+                    46.93586810417
                 ]
             }
         }
