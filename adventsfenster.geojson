@@ -5,10 +5,109 @@
         {
             "type": "Feature",
             "properties": {
+                "level": ", im Ärdgschoss",
+                "addr:street": "Wilkerstrasse",
+                "name": "20",
+                "addr:housenumber": "56",
+                "apero": ", mit Snacks und Glühwein"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41875409812,
+                    46.93523341024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "64",
+                "name": "4",
+                "level": ", im 1. Stock",
+                "addr:street": "Wilkerstrasse",
+                "apero": ", evtl. mit Apero um ca. 17:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41803929076,
+                    46.93547241672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "50",
+                "level": ", im 2. Stock",
+                "addr:street": "Wilkerstrasse",
+                "name": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41971567206,
+                    46.93492892472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "addr:street": "Wilkerstrasse",
+                "addr:housenumber": "68",
+                "level": ", im EG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41768389672,
+                    46.93562900811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "50",
+                "level": ", im 2. Stock",
+                "addr:street": "Wilkerstrasse",
+                "name": "3",
+                "apero": ", mit Glühwein und Punsch um ca. 17:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41965062849,
+                    46.93491289919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "60",
+                "name": "4",
+                "level": ", im Ärdgschoss",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41831153497,
+                    46.93539549492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "addr:housenumber": "50",
                 "level": ", im Ärdgschoss",
-                "name": "10",
-                "addr:street": "Wilkerstrasse"
+                "addr:street": "Wilkerstrasse",
+                "name": "10"
             },
             "geometry": {
                 "type": "Point",
@@ -22,9 +121,9 @@
             "type": "Feature",
             "properties": {
                 "addr:housenumber": "52",
-                "level": ", im 1. Stock",
+                "addr:street": "Wilkerstrasse",
                 "name": "21",
-                "addr:street": "Wilkerstrasse"
+                "level": ", im 1. Stock"
             },
             "geometry": {
                 "type": "Point",
@@ -37,33 +136,16 @@
         {
             "type": "Feature",
             "properties": {
-                "level": ", im Ärdgschoss",
+                "addr:housenumber": "52",
                 "addr:street": "Wilkerstrasse",
-                "apero": ", mit Snacks und Glühwein",
-                "addr:housenumber": "56",
-                "name": "20"
+                "name": "7",
+                "level": ", im 2. Stock"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.41875409812,
-                    46.93523341024
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "1",
-                "addr:housenumber": "68",
-                "addr:street": "Wilkerstrasse",
-                "level": ", im EG"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41768389672,
-                    46.93562900811
+                    7.41913765602,
+                    46.93506537046
                 ]
             }
         },
@@ -86,6 +168,22 @@
         {
             "type": "Feature",
             "properties": {
+                "addr:housenumber": "50",
+                "name": "22",
+                "addr:street": "Wilkerstrasse",
+                "level": ", im 3. Stock"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41950645774,
+                    46.93489046481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "15",
                 "addr:housenumber": "70",
                 "addr:street": "Wilkerstrasse",
@@ -96,22 +194,6 @@
                 "coordinates": [
                     7.41781451752,
                     46.93586810417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "50",
-                "level": ", im 3. Stock",
-                "name": "22",
-                "addr:street": "Wilkerstrasse"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41958290070,
-                    46.93488176523
                 ]
             }
         }
