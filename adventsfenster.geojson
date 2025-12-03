@@ -155,7 +155,8 @@
                 "addr:housenumber": "60",
                 "name": "17",
                 "level": ", im Ärdgschoss",
-                "addr:street": "Wilkerstrasse"
+                "addr:street": "Wilkerstrasse",
+                "apero": ", mit Apero"
             },
             "geometry": {
                 "type": "Point",
