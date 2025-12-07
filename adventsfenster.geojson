@@ -5,33 +5,81 @@
         {
             "type": "Feature",
             "properties": {
-                "addr:housenumber": "60",
-                "name": "17",
-                "level": ", im Ärdgschoss",
+                "addr:housenumber": "50",
+                "name": "14",
                 "addr:street": "Wilkerstrasse",
-                "apero": ", mit Apero"
+                "level": ", im Ärdgschoss"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.41849794850,
-                    46.93530392120
+                    7.41950243443,
+                    46.93490923758
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "15",
-                "addr:housenumber": "70",
+                "name": "4",
+                "addr:housenumber": "60",
+                "level": ", im Ärdgschoss",
+                "addr:street": "Wilkerstrasse"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41831153497,
+                    46.93539549492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "5",
+                "addr:housenumber": "64",
+                "apero": ", mit Apero um ca. 17:30",
                 "addr:street": "Wilkerstrasse",
+                "level": ", im 1. Stock"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41803929076,
+                    46.93547241672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "5",
+                "addr:housenumber": "66",
+                "addr:street": "Wilkerstrasse",
+                "level": ", im Ärdgschoss"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41827398270,
+                    46.93576453634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "addr:street": "Wilkerstrasse",
+                "addr:housenumber": "68",
                 "level": ", im EG"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.41781451752,
-                    46.93586810417
+                    7.41768389672,
+                    46.93562900811
                 ]
             }
         },
@@ -40,9 +88,9 @@
             "properties": {
                 "level": ", im Ärdgschoss",
                 "addr:street": "Wilkerstrasse",
-                "apero": ", mit Snacks und Glühwein",
+                "name": "20",
                 "addr:housenumber": "56",
-                "name": "20"
+                "apero": ", mit Snacks und Glühwein"
             },
             "geometry": {
                 "type": "Point",
@@ -71,33 +119,49 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "5",
-                "apero": ", mit Apero um ca. 17:30",
-                "addr:housenumber": "64",
+                "addr:housenumber": "52",
+                "name": "7",
                 "addr:street": "Wilkerstrasse",
-                "level": ", im 1. Stock"
+                "level": ", im 2. Stock"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.41803929076,
-                    46.93547241672
+                    7.41907864742,
+                    46.93505163433
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "1",
-                "addr:housenumber": "68",
-                "addr:street": "Wilkerstrasse",
-                "level": ", im EG"
+                "apero": ", mit Apero",
+                "addr:housenumber": "60",
+                "name": "17",
+                "level": ", im Ärdgschoss",
+                "addr:street": "Wilkerstrasse"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.41768389672,
-                    46.93562900811
+                    7.41849794850,
+                    46.93530392120
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "50",
+                "name": "22",
+                "addr:street": "Wilkerstrasse",
+                "level": ", im 3. Stock"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41943806141,
+                    46.93481995239
                 ]
             }
         },
@@ -106,14 +170,46 @@
             "properties": {
                 "addr:housenumber": "50",
                 "level": ", im Ärdgschoss",
-                "name": "10",
-                "addr:street": "Wilkerstrasse"
+                "addr:street": "Wilkerstrasse",
+                "name": "10"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     7.41964062434,
                     46.93477194242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15",
+                "addr:housenumber": "70",
+                "addr:street": "Wilkerstrasse",
+                "level": ", im EG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41781451752,
+                    46.93586810417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "52",
+                "addr:street": "Wilkerstrasse",
+                "name": "21",
+                "level": ", im 1. Stock"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41932004422,
+                    46.93500355921
                 ]
             }
         },
@@ -131,70 +227,6 @@
                 "coordinates": [
                     7.41965599291,
                     46.93491930940
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "52",
-                "name": "21",
-                "addr:street": "Wilkerstrasse",
-                "level": ", im 1. Stock"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41932004422,
-                    46.93500355921
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "4",
-                "addr:housenumber": "60",
-                "level": ", im Ärdgschoss",
-                "addr:street": "Wilkerstrasse"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41831153497,
-                    46.93539549492
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "52",
-                "name": "7",
-                "addr:street": "Wilkerstrasse",
-                "level": ", im 2. Stock"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41907864742,
-                    46.93505163433
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "addr:housenumber": "50",
-                "name": "22",
-                "addr:street": "Wilkerstrasse",
-                "level": ", im 3. Stock"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.41944342583,
-                    46.93485291925
                 ]
             }
         }
