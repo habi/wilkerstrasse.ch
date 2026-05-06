@@ -1,8 +1,9 @@
 # Strassenfest Wilkerstrasse
 
-Das Wilkerstrassefest 2025 findet am 16. August statt.
+Das Wilkerstrassefest 2026 findet wie immer am ersten Samstag nach den Sommerferien, am 15. August statt.
 Details erscheinen nadisna hier.
 
+<!--
 ## Programm
 
 | Was                                         | Wenn                 |
@@ -19,7 +20,8 @@ Details erscheinen nadisna hier.
 | Frisch gemachte Crêpes                      | ca. 20:00            |
 | Dessertbuffet                               | 20:00                |
 | Aufräumen                                   | ca. 23:30            |
-
+-->
+<!--
 ## Anmeldung und Beiträge
 
 Bitte hier unten eintragen.
@@ -30,7 +32,7 @@ Bitte hier unten eintragen.
 	frameborder="0"
 	marginheight="0"
 	marginwidth="0">Loading…</iframe>
-	
+-->	
 <!--
 <div id="rnw-solution-embed-vbrwm" style="width: 100%; margin: 0 auto; max-width: 580px;"></div>
 <script type="module">
