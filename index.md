@@ -1,12 +1,11 @@
-![save the date](std.jpg)
-
-<!--
 # Strassenfest Wilkerstrasse
 
 Das Wilkerstrassefest 2026 findet wie immer am ersten Samstag nach den Sommerferien, am 15. August statt.
 Details erscheinen nadisna hier.
 
 ![save the date](std.jpg)
+
+<!--
 
 ## Programm
 
