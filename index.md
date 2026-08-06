@@ -17,14 +17,12 @@ Das Wilkerstrassefest 2026 findet---wie immer---am ersten Samstag nach den Somme
 
 ## Anmeldung und Beiträge
 
-Bitte hier unten eintragen.
+Bitte hier unten anmelden und Beiträge [hier](https://docs.google.com/spreadsheets/d/1VmUZnCZrVhwqiK974FzPAAUFm1iDNlKADyTcGqaYdfM/edit#gid=0) eintragen.
+Mersi!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfzXNL7lqKhPBdIhRUW13hTf97_g0bgl6unWWic6UU5auPImQ/viewform?embedded=true"
-	width="800"
-	height="2506"
-	frameborder="0"
-	marginheight="0"
-	marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfzXNL7lqKhPBdIhRUW13hTf97_g0bgl6unWWic6UU5auPImQ/viewform?embedded=true" width="800" frameborder="0" marginheight="0" marginwidth="0">
+	Form
+</iframe>
 
 <div id="rnw-solution-embed-vbrwm" style="width: 100%; margin: 0 auto; max-width: 580px;"></div>
 <script type="module">
