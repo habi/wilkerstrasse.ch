@@ -1,27 +1,19 @@
 # Strassenfest Wilkerstrasse
 
-Das Wilkerstrassefest 2026 findet wie immer am ersten Samstag nach den Sommerferien, am 15. August statt.
+Das Wilkerstrassefest 2026 findet---wie immer---am ersten Samstag nach den Sommerferien, am 15. August statt.
 
-![save the date](std.jpg)
-
-<!--
 ## Programm
 
 | Was                                         | Wenn                 |
 |---------------------------------------------|----------------------|
-| Kinderschminken                             | 14:00 - 16:00        |
 | Aufbau                                      | ~15:00 - 16:00       |
 | Ankommen und Apéro                          | 16:00 - 18:00        |
 | Spiel und Sport auf der Wilkerstrasse       | die ganze Zeit       |
-| Flohmi                                      | 16:00 - ca. 17:30    |
 | Bobbycar-, Trottinett- und Fahrzeuge-Rennen | 17:00                |
-| Wasserschlacht                              | 18:30                |
-| Znacht (Grill & Salat-Buffet)               | 18:30                |
-| Kinderfilm (drinnen)                        | 19:30                |
+| Znacht (Grill & Salat-Buffet)               | 18:00                |
 | Frisch gemachte Crêpes                      | ca. 20:00            |
 | Dessertbuffet                               | 20:00                |
 | Aufräumen                                   | ca. 23:30            |
--->
 
 ## Anmeldung und Beiträge
 
@@ -34,7 +26,6 @@ Bitte hier unten eintragen.
 	marginheight="0"
 	marginwidth="0">Loading…</iframe>
 
-<!--
 <div id="rnw-solution-embed-vbrwm" style="width: 100%; margin: 0 auto; max-width: 580px;"></div>
 <script type="module">
   import {SolutionEmbed} from "https://cdn.jsdelivr.net/npm/@raisenow/solution-embed@1/dist/index.js"
@@ -42,4 +33,3 @@ Bitte hier unten eintragen.
     "url": "https://pay.raisenow.io/vbrwm",
   })
 </script>
--->
