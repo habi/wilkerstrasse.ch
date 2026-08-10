@@ -8,7 +8,7 @@ Das Wilkerstrassefest 2026 findet---wie immer---am ersten Samstag nach den Somme
 |---------------------------------------------|----------------------|
 | Aufbau                                      | ~15:00 - 16:00       |
 | Ankommen und Apéro                          | 16:00 - 18:00        |
-| Spiel und Sport auf der Wilkerstrasse       | die ganze Zeit       |
+| Spiel und Sport und [Ping-Pong-Turnier](https://habi.github.io/strassenfest-pingpong-tracker/) auf der Wilkerstrasse       | die ganze Zeit       |
 | Bobbycar-, Trottinett- und Fahrzeuge-Rennen | ca. 18:00            |
 | Znacht (Grill & Salat-Buffet)               | ab 18:30             |
 | Kinderfilm                                  | ca. 20:00            |
